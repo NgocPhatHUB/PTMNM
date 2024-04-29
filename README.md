@@ -1,7 +1,7 @@
 # Thông tin về Tác giả
-1. Mã sinh viên: 030237210146
+- 1. Mã sinh viên: 030237210146
 Họ tên: Nguyễn Ngọc Phát
-Mã sinh viên: 030237210191
+- 2. Mã sinh viên: 030237210191
 Họ tên: Vũ Quỳnh Trang
 
 # Hướng dẫn cách sử dụng dự án
