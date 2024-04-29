@@ -20,10 +20,9 @@ DB_PASSWORD=
 
 ## Step 3: Tạo database, thực hiện migrate
 - Import data có trong file vào mysql
-```
 
 ## Step 4: Khởi chạy laravel bằng CMD
-```
+
 
 ## Step 5: Truy cập dự án
 - Vào trang chủ theo đường dẫn: http://127.0.0.1:8000/public/index
